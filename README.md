@@ -56,7 +56,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ###[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
 
-[Struct](https://raw.githubusercontent.com/phodal/django-elasticsearch/master/struct.png)
+![Struct](https://raw.githubusercontent.com/phodal/django-elasticsearch/master/struct.png)
 
 > Django ElasticSearch Ionic 打造 GIS 移动应用
 
