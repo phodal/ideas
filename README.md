@@ -1,4 +1,4 @@
-# ideas
+# Ideas 墙
 
 ##Intro
 
@@ -12,11 +12,13 @@
 
 ##Done(:thumbsup:)
 
-Some ideas(done):
+> 一些已经完成的Idea
 
 ###[Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
+
+> 一个简易的简历生成器。
 
 - React
 - jsPDF
