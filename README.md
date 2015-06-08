@@ -20,6 +20,8 @@
 
 > 一个简易的简历生成器。
 
+Demo: [http://resume.phodal.com](http://resume.phodal.com)
+
 - React
 - jsPDF
 - jQuery
@@ -29,6 +31,8 @@
 ###[Moqi Mobi](https://github.com/phodal/moqi.mobi)
 
 > 开源移动CMS框架
+
+Demo: [http://cms.moqi.mobi](http://cms.moqi.mobi)
 
 - Backbone
 - RequireJS
@@ -40,6 +44,8 @@
 
 > Web Developer Skill Tree
 
+Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
+
 - D3.js
 - Dagre-D3.js
 - jquery.tooltipster.js
@@ -48,7 +54,9 @@
 - Knockout.js
 - Require.js
 
-###[ionic-elasticsearch](https://github.com/phodal/ionic-elasticsearch)
+###[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
+
+[Struct](https://raw.githubusercontent.com/phodal/django-elasticsearch/master/struct.png)
 
 > Django ElasticSearch Ionic 打造 GIS 移动应用
 
@@ -90,6 +98,17 @@
 
 - Ruby
 - Dashing
+ 
+###[Design Internet of Things](https://github.com/phodal/designiot-app)
+
+> Internet of Things APP
+
+- Ionic
+
+<a href="https://play.google.com/store/apps/details?id=com.phodal.designiot">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/zh-cn_generic_rgb_wo_60.png" />
+</a>
 
 ##Sleeping(:sleeping:)
 
