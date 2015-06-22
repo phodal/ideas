@@ -118,7 +118,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ###[Iot Dashboard](https://github.com/phodal/iot-dashboard)
 
-[Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
+![Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
 
 > Internet of Things Dashboard 
 
