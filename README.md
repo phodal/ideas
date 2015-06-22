@@ -14,6 +14,22 @@
 
 > 一些已经完成的Idea
 
+###[EchoesWorks](https://github.com/phodal/echoesworks)
+
+![EchoesWorks](https://raw.githubusercontent.com/phodal/echoesworks/master/app/logo_small.png)
+
+> Next-Generation Tech Blog/Presentation Framework
+
+- 支持 Markdown
+- Github代码显示
+- 全屏背景图片
+- 左/右侧图片支持
+- 进度条
+- 自动播放
+- 字幕
+- 分屏控制
+
+
 ###[Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
@@ -68,17 +84,23 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ###[Tile.js](https://github.com/phodal/tile.js)
 
+![Tile.js](https://raw.githubusercontent.com/phodal/tile.js/master/screenshot.jpg)
+
 > a pure javascript tiled map render
 
 - JavaScript
 
 ###[Text2Logo](https://github.com/phodal/text2logo)
 
+![Text2Logo example](https://raw.githubusercontent.com/phodal/text2logo/master/build/node.png)
+
 > text2logo for sherlock skill tree
 
 - Python
 
 ###[Google Map Solr](https://github.com/phodal/gmap-solr)
+
+![Google Map Solr Demo](https://raw.githubusercontent.com/phodal/gmap-solr/master/screenshot/screenshot.png)
 
 > Solr Polygon Search 
 
@@ -87,12 +109,16 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ###[On Map](https://github.com/phodal/onmap)
 
+![Nokia Image on Map](http://www.phodal.com/static/media/uploads/screen_shot_2014-03-22_at_10.05.39_am.jpg)
+
 > python exifread cartodb build self small image data
 
 - Python
 - CartoDB
 
 ###[Iot Dashboard](https://github.com/phodal/iot-dashboard)
+
+[Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
 
 > Internet of Things Dashboard 
 
