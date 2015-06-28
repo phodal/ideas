@@ -58,6 +58,8 @@ Demo: [http://cms.moqi.mobi](http://cms.moqi.mobi)
 - Mustache
 - Pure CSS
 
+![moqi cms](https://raw.githubusercontent.com/phodal/moqi.mobi/gh-pages/cms.jpg)
+
 ###[Sherlock](https://github.com/phodal/sherlock)
 
 > Web Developer Skill Tree
