@@ -1,20 +1,11 @@
-# Ideas 墙
 
-##Intro
+>  ideas合集，孵化中的idea见:  [issues](https://github.com/phodal/ideas/issues)
 
-###``en``
-
->  Collection of ideas for projects I would like to build at some point. See [issues](https://github.com/phodal/ideas/issues) for more.
-
-###``zh-cn``
-
->  ideas合集，详情见:  [issues](https://github.com/phodal/ideas/issues)
-
-##Done(:thumbsup:)
+#Done(:thumbsup:)#
 
 > 一些已经完成的Idea
 
-###[EchoesWorks](https://github.com/phodal/echoesworks)
+##[EchoesWorks](https://github.com/phodal/echoesworks)##
 
 ![EchoesWorks](https://raw.githubusercontent.com/phodal/echoesworks/master/app/logo_small.png)
 
@@ -29,8 +20,7 @@
 - 字幕
 - 分屏控制
 
-
-###[Resume](https://github.com/phodal/resume)
+##[Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
 
@@ -46,7 +36,7 @@ Demo: [http://resume.phodal.com](http://resume.phodal.com)
 
 ![RESUME](https://raw.githubusercontent.com/phodal/resume/gh-pages/markdown.jpg)
 
-###[Moqi Mobi](https://github.com/phodal/moqi.mobi)
+##[Moqi Mobi](https://github.com/phodal/moqi.mobi)
 
 > 开源移动CMS框架
 
@@ -60,7 +50,7 @@ Demo: [http://cms.moqi.mobi](http://cms.moqi.mobi)
 
 ![moqi cms](https://raw.githubusercontent.com/phodal/moqi.mobi/gh-pages/cms.jpg)
 
-###[Sherlock](https://github.com/phodal/sherlock)
+##[Sherlock](https://github.com/phodal/sherlock)
 
 > Web Developer Skill Tree
 
@@ -76,7 +66,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Sherlock](https://raw.githubusercontent.com/phodal/sherlock/gh-pages/sherlock.jpg)
 
-###[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
+##[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
 
 > Django ElasticSearch Ionic 打造 GIS 移动应用
 
@@ -88,7 +78,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Struct](https://raw.githubusercontent.com/phodal/ionic-elasticsearch/master/screenshots/2.jpg)
 
-###[Tile.js](https://github.com/phodal/tile.js)
+##[Tile.js](https://github.com/phodal/tile.js)
 
 ![Tile.js](https://raw.githubusercontent.com/phodal/tile.js/master/screenshot.jpg)
 
@@ -96,7 +86,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 - JavaScript
 
-###[Text2Logo](https://github.com/phodal/text2logo)
+##[Text2Logo](https://github.com/phodal/text2logo)
 
 ![Text2Logo example](https://raw.githubusercontent.com/phodal/text2logo/master/build/node.png)
 
@@ -104,7 +94,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 - Python
 
-###[Google Map Solr](https://github.com/phodal/gmap-solr)
+##[Google Map Solr](https://github.com/phodal/gmap-solr)
 
 ![Google Map Solr Demo](https://raw.githubusercontent.com/phodal/gmap-solr/master/screenshot/screenshot.png)
 
@@ -113,7 +103,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Google Map
 - Solr
 
-###[On Map](https://github.com/phodal/onmap)
+##[On Map](https://github.com/phodal/onmap)
 
 ![Nokia Image on Map](http://www.phodal.com/static/media/uploads/screen_shot_2014-03-22_at_10.05.39_am.jpg)
 
@@ -122,7 +112,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Python
 - CartoDB
 
-###[Iot Dashboard](https://github.com/phodal/iot-dashboard)
+##[Iot Dashboard](https://github.com/phodal/iot-dashboard)
 
 ![Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
 
@@ -131,7 +121,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Ruby
 - Dashing
  
-###[Design Internet of Things](https://github.com/phodal/designiot-app)
+##[Design Internet of Things](https://github.com/phodal/designiot-app)
 
 > Internet of Things APP
 
@@ -142,7 +132,22 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
        src="https://developer.android.com/images/brand/zh-cn_generic_rgb_wo_60.png" />
 </a>
 
-##Sleeping(:sleeping:)
+##[Big Data](https://github.com/phodal/learning-data)
+
+> Big data with ElasticSearch,Hadoop,Pig,Map,D3
+
+- Hadoop
+- Apache Pig
+- ElasticSearch
+- amMap
+- D3.js
+- Python Geo Parse
+- Jython
+
+![Learning Data](https://raw.githubusercontent.com/phodal/learning-data/master/nginx/screenshot.jpg)
+
+
+#Sleeping(:sleeping:)
 
 ###[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
 
