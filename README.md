@@ -44,6 +44,8 @@ Demo: [http://resume.phodal.com](http://resume.phodal.com)
 - RequireJS
 - Showdown
 
+![RESUME](https://raw.githubusercontent.com/phodal/resume/gh-pages/markdown.jpg)
+
 ###[Moqi Mobi](https://github.com/phodal/moqi.mobi)
 
 > 开源移动CMS框架
@@ -70,9 +72,9 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Knockout.js
 - Require.js
 
-###[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
+![Sherlock](https://raw.githubusercontent.com/phodal/sherlock/gh-pages/sherlock.jpg)
 
-![Struct](https://raw.githubusercontent.com/phodal/django-elasticsearch/master/struct.png)
+###[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
 
 > Django ElasticSearch Ionic 打造 GIS 移动应用
 
@@ -81,6 +83,8 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Python
 - Ionic
 - OpenLayers 3
+
+![Struct](https://raw.githubusercontent.com/phodal/ionic-elasticsearch/master/screenshots/2.jpg)
 
 ###[Tile.js](https://github.com/phodal/tile.js)
 
