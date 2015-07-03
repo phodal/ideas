@@ -1,9 +1,7 @@
 
->  ideas合集，孵化中的idea见:  [issues](https://github.com/phodal/ideas/issues)
+> 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
 
 #Done(:thumbsup:)#
-
-> 一些已经完成的Idea
 
 ##[EchoesWorks](https://github.com/phodal/echoesworks)##
 
@@ -145,7 +143,6 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Jython
 
 ![Learning Data](https://raw.githubusercontent.com/phodal/learning-data/master/nginx/screenshot.jpg)
-
 
 #Sleeping(:sleeping:)
 
