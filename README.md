@@ -112,7 +112,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ##[Lan IoT](https://github.com/phodal/lan)
 
-![Iot Struct](https://github.com/phodal/lan/blob/master/docs/iot.jpg)
+![Iot Struct](https://raw.githubusercontent.com/phodal/lan/master/docs/iot.jpg)
 
 > Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol.
 
