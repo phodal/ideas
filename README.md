@@ -18,16 +18,6 @@
 - 字幕
 - 分屏控制
 
-##[Lan IoT](https://github.com/phodal/lan)
-
-![Lan IoT](https://raw.githubusercontent.com/phodal/lan/master/docs/iot.jpg)
-
-> Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol.
-
-- CoAP, WebSocket, MQTT, HTTP Protocol.
-- Auth
-- Configurable
-
 ##[Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
@@ -146,6 +136,12 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/zh-cn_generic_rgb_wo_60.png" />
 </a>
+
+##[Github Roam](https://github.com/phodal/github-roam)
+
+![Github Roam](https://raw.githubusercontent.com/phodal/github-roam/gh-pages/img/cover.jpg)
+
+> GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 
 ##[Big Data](https://github.com/phodal/learning-data)
 
