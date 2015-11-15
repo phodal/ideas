@@ -18,6 +18,18 @@
 - 字幕
 - 分屏控制
 
+##[Congee Wechat Editor](https://github.com/phodal/congee)
+
+> [Congee](https://raw.githubusercontent.com/phodal/congee/gh-pages/docs/screenshot.jpg)
+
+- Ractive (template-driven UI library)
+- Require.JS (AMD)
+- CKEditor
+- jQuery Nicescroll
+- jQuery Mixitup
+- Spectrum (ColorPicker)
+
+
 ##[Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
