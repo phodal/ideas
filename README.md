@@ -29,6 +29,15 @@
 - jQuery Mixitup
 - Spectrum (ColorPicker)
 
+##Edit-Publish-Program Seperate CMS
+
+![Editor](https://raw.githubusercontent.com/phodal/echeveria-editor/master/screenshot.png)
+
+![Architecture](https://raw.githubusercontent.com/phodal/echeveria/master/architecture.png)
+
+- React.js
+- Assemble
+- Electron
 
 ##[Resume](https://github.com/phodal/resume)
 
