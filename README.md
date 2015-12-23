@@ -1,6 +1,39 @@
 
 > 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
 
+*   [Done(:thumbsup:)](#donethumbsup)
+    *   [](#echoesworks)[EchoesWorks](https://github.com/phodal/echoesworks)
+    *   [](#congee-wechat-editor)[Congee Wechat Editor](https://github.com/phodal/congee)
+    *   [Edit-Publish-Program Seperate CMS](#edit-publish-program-seperate-cms)
+    *   [](#resume)[Resume](https://github.com/phodal/resume)
+    *   [](#moqi-mobi)[Moqi Mobi](https://github.com/phodal/moqi.mobi)
+    *   [](#sherlock)[Sherlock](https://github.com/phodal/sherlock)
+    *   [](#ionic-elasticsearch-django-elasticsearch)[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
+    *   [](#tile.js)[Tile.js](https://github.com/phodal/tile.js)
+    *   [](#text2logo)[Text2Logo](https://github.com/phodal/text2logo)
+    *   [](#google-map-solr)[Google Map Solr](https://github.com/phodal/gmap-solr)
+    *   [](#on-map)[On Map](https://github.com/phodal/onmap)
+    *   [](#lan-iot)[Lan IoT](https://github.com/phodal/lan)
+    *   [](#iot-dashboard)[Iot Dashboard](https://github.com/phodal/iot-dashboard)
+    *   [](#design-internet-of-things)[Design Internet of Things](https://github.com/phodal/designiot-app)
+    *   [](#github-roam)[Github Roam](https://github.com/phodal/github-roam)
+    *   [](#big-data)[Big Data](https://github.com/phodal/learning-data)
+    *   [](#bookshelf)[BookShelf](https://github.com/phodal/bookshelf)
+    *   [](#luffa)[Luffa](https://github.com/phodal/luffa)
+    *   [](#tech-stack)[Tech Stack](https://github.com/phodal/techstack)
+*   [Sleeping(:sleeping:)](#sleepingsleeping)
+    *   [](#cordova-wordpress)[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
+    *   [](#chinaware)[Chinaware](https://github.com/phodal/chinaware)
+    *   [](#project-x)[Project X](https://github.com/phodal/project-x)
+    *   [](#falcon-wordpress)[Falcon Wordpress](https://github.com/phodal/falcon-wordpress)
+    *   [](#lumia.css)[Lumia.css](https://github.com/phodal/lumia.css)
+    *   [](#git-analytics)[Git Analytics](https://github.com/phodal/git-analytics)
+    *   [](#wechat-wordpress)[Wechat WordPress](https://github.com/phodal/wechat-wordpress)
+    *   [](#be-a-geek)[Be a Geek](https://github.com/phodal/beageek)
+    *   [](#bamboo-python)[Bamboo Python](https://github.com/phodal/bamboo_py)
+    *   [](#lettuce)[Lettuce](https://github.com/phodal/lettuce)
+    *   [](#echoes-cms)[Echoes CMS](https://github.com/phodal/echoes)
+    
 #Done(:thumbsup:)#
 
 ##[EchoesWorks](https://github.com/phodal/echoesworks)##
@@ -172,18 +205,18 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Learning Data](https://raw.githubusercontent.com/phodal/learning-data/master/nginx/screenshot.jpg)
 
-###[BookShelf](https://github.com/phodal/bookshelf)
+##[BookShelf](https://github.com/phodal/bookshelf)
 
 > A Android Application for count your books.
 
-###[Luffa](https://github.com/phodal/luffa)
+##[Luffa](https://github.com/phodal/luffa)
 
  - HighLight DOM Change
  - Generator Test
 
 ![Luffa](https://github.com/phodal/luffa/blob/master/screenshot.jpg)
 
-###[Tech Stack](https://github.com/phodal/techstack)
+##[Tech Stack](https://github.com/phodal/techstack)
 
 Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack)
 
