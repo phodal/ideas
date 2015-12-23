@@ -183,17 +183,13 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Luffa](https://github.com/phodal/luffa/blob/master/screenshot.jpg)
 
-###[Tech Stack](https://github.com/phodal/techstack）
+###[Tech Stack](https://github.com/phodal/techstack)
 
-Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack）
+Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack)
 
-![Tech Stack](https://github.com/phodal/techstack/blob/gh-pages/screenshot.jpg)
+![Tech Stack[(https://github.com/phodal/techstack/blob/gh-pages/screenshot.jpg)
 
 #Sleeping(:sleeping:)
-
-###[Github basis CMS](https://github.com/phodal-archive/echeveria)
-
-![Github basis CMS](https://raw.githubusercontent.com/phodal-archive/echeveria/master/architecture.png)
 
 ###[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
 
