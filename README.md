@@ -160,8 +160,6 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ##[Github Roam](https://github.com/phodal/github-roam)
 
-![Github Roam](https://raw.githubusercontent.com/phodal/github-roam/gh-pages/img/cover.jpg)
-
 > GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 
 ##[Big Data](https://github.com/phodal/learning-data)
