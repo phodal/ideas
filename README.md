@@ -41,6 +41,12 @@
 
 > 成为顶尖的Web开发者的APP
 
+ - 完整的Web开发流程介绍
+ - 如何写好代码——重构、测试、模式
+ - Web应用的分析和部署
+ - 遗留代码、遗留系统的形成
+ - 每一阶段所需的技能
+
 ![Growth](https://github.com/phodal/growth/raw/master/screenshot/2.jpg) ![Growth](https://github.com/phodal/growth/raw/master/screenshot/1.jpg)
 
 ##[EchoesWorks](https://github.com/phodal/echoesworks)##
