@@ -47,7 +47,7 @@
  - 遗留代码、遗留系统的形成
  - 每一阶段所需的技能
 
-![Growth](https://github.com/phodal/growth/raw/master/screenshot/2.jpg) ![Growth](https://github.com/phodal/growth/raw/master/screenshot/1.jpg)
+![Growth](https://github.com/phodal/growth/raw/master/screenshot/2.pic.jpg) ![Growth](https://github.com/phodal/growth/raw/master/screenshot/1.pic.jpg)
 
 ##[EchoesWorks](https://github.com/phodal/echoesworks)##
 
