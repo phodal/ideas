@@ -2,6 +2,7 @@
 > 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
 
 *   [Done(:thumbsup:)](#donethumbsup)
+*   *   [](#growth)[Growth](https://github.com/phodal/growth)
     *   [](#echoesworks)[EchoesWorks](https://github.com/phodal/echoesworks)
     *   [](#congee-wechat-editor)[Congee Wechat Editor](https://github.com/phodal/congee)
     *   [Edit-Publish-Program Seperate CMS](#edit-publish-program-seperate-cms)
