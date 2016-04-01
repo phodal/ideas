@@ -240,7 +240,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack)
 
-![Tech Stack[(https://github.com/phodal/techstack/blob/gh-pages/screenshot.jpg)
+![Tech Stack](https://github.com/phodal/techstack/blob/gh-pages/screenshot.jpg)
 
 #Sleeping(:sleeping:)
 
