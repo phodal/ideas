@@ -38,6 +38,13 @@
 
 #Done(:thumbsup:)
 
+##[Brand](https://github.com/phodal/brand)
+
+[![Phodal's Idea](http://brand.phodal.com/shields/idea.svg)](http://ideas.phodal.com/)
+[![Phodal's Article](http://brand.phodal.com/shields/article.svg)](https://www.phodal.com/)
+[![Phodal's Works](http://brand.phodal.com/shields/works.svg)](https://www.phodal.com/)
+[![Phodal's Design](http://brand.phodal.com/shields/design.svg)](https://www.phodal.com/)
+
 ##[Growth](https://github.com/phodal/growth)
 
 > 成为顶尖的Web开发者的APP
