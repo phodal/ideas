@@ -1,6 +1,9 @@
 
 > 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
 
+这些Idea的实战指南见：[Ideabook](https://github.com/phodal/ideabook)电子书
+
+
 *   [Done(:thumbsup:)](#donethumbsup)
     *   [](#growth)[Growth](https://github.com/phodal/growth)
     *   [](#echoesworks)[EchoesWorks](https://github.com/phodal/echoesworks)
