@@ -58,7 +58,7 @@
  - 遗留代码、遗留系统的形成
  - 每一阶段所需的技能
 
-![Growth](https://github.com/phodal/growth/raw/master/screenshot/2.pic.jpg) ![Growth](https://github.com/phodal/growth/raw/master/screenshot/1.pic.jpg)
+![Growth](https://github.com/phodal/growth/raw/master/marketing/2.pic.jpg) ![Growth](https://github.com/phodal/growth/raw/master/marketing/1.pic.jpg)
 
 ##[V Map](https://github.com/phodal/vmap)
 
