@@ -81,6 +81,16 @@
 - 字幕
 - 分屏控制
 
+##[墨乐 - Mole, a github-base note](https://github.com/phodal/mole)
+
+Features:
+
+ - GitHub as Database
+ - GitHub Page as Blog / Note for Display (TBC)
+ - Markdown Support
+ - Issues as Idea List
+
+Online Demo: https://phodal.github.io/mole-web/
 
 ##[Visitor In Map](https://github.com/phodal-archive/visitor-in-map)
 
