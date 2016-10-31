@@ -273,7 +273,18 @@ Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack)
 
 ![Tech Stack](https://github.com/phodal/techstack/blob/gh-pages/screenshot.jpg)
 
-#Sleeping(:sleeping:)
+Sleeping(:sleeping:)
+---
+
+### [winv](https://github.com/phodal/winv)
+
+> A mini MINA framework for fun
+
+Features:
+
+ - 兼容微信小程序的语法——它并没有多少复杂的语法。只是简单的Virtual DOM操作，以及事件绑定
+ - 尽可能兼容大部分的微信API，兼容所有的微信API几乎是不可能的。
+ - 提供一个Virtual DOM转换的混合应用插件。
 
 ###[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
 
