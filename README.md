@@ -72,6 +72,12 @@
 
 ![V Map](http://vmap.phodal.com/vmap.jpg)
 
+##[MD Wechat](https://github.com/phodal/mdpub)
+
+> A Simple & Beautify Online Markdown Converter for Wechat Public
+
+Online: [http://md.phodal.com/](http://md.phodal.com/)
+
 ##[EchoesWorks](https://github.com/phodal/echoesworks)##
 
 ![EchoesWorks](https://raw.githubusercontent.com/phodal/echoesworks/master/app/logo_small.png)
