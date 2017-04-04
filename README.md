@@ -41,7 +41,7 @@
 
 #Done(:thumbsup:)
 
-##[Growth](https://github.com/phodal/growth)
+## [Growth](https://github.com/phodal/growth)
 
 > 成为顶尖的Web开发者的APP
 
@@ -53,32 +53,32 @@
 
 ![Growth](https://github.com/phodal/growth/raw/master/marketing/2.pic.jpg) ![Growth](https://github.com/phodal/growth/raw/master/marketing/1.pic.jpg)
 
-##[Moree](https://github.com/phodal/motree)
+## [Moree](https://github.com/phodal/motree)
 
 > Growth Mobile Tree
 
 ![Motree](https://github.com/phodal/motree/raw/master/marketing/s1.jpeg) ![Motree2](https://github.com/phodal/motree/raw/master/marketing/s2.jpeg)
 
-##[Brand](https://github.com/phodal/brand)
+## [Brand](https://github.com/phodal/brand)
 
 [![Phodal's Idea](http://brand.phodal.com/shields/idea-small.svg)](http://ideas.phodal.com/)
 [![Phodal's Article](http://brand.phodal.com/shields/article-small.svg)](https://www.phodal.com/)
 [![Phodal's Works](http://brand.phodal.com/shields/works-small.svg)](https://www.phodal.com/)
 [![Phodal's Design](http://brand.phodal.com/shields/design-small.svg)](https://www.phodal.com/)
 
-##[V Map](https://github.com/phodal/vmap)
+## [V Map](https://github.com/phodal/vmap)
 
 > GitHub most popular Chinese user in Map
 
 ![V Map](http://vmap.phodal.com/vmap.jpg)
 
-##[MD Wechat](https://github.com/phodal/mdpub)
+## [MD Wechat](https://github.com/phodal/mdpub)
 
 > A Simple & Beautify Online Markdown Converter for Wechat Public
 
 Online: [http://md.phodal.com/](http://md.phodal.com/)
 
-##[EchoesWorks](https://github.com/phodal/echoesworks)##
+## [EchoesWorks](https://github.com/phodal/echoesworks)##
 
 ![EchoesWorks](https://raw.githubusercontent.com/phodal/echoesworks/master/app/logo_small.png)
 
@@ -93,7 +93,7 @@ Online: [http://md.phodal.com/](http://md.phodal.com/)
 - 字幕
 - 分屏控制
 
-##[墨乐 - Mole, a github-base note](https://github.com/phodal/mole)
+## [墨乐 - Mole, a github-base note](https://github.com/phodal/mole)
 
 Features:
 
@@ -104,13 +104,13 @@ Features:
 
 Online Demo: https://phodal.github.io/mole-web/
 
-##[Visitor In Map](https://github.com/phodal-archive/visitor-in-map)
+## [Visitor In Map](https://github.com/phodal-archive/visitor-in-map)
 
 > Display Geo Point to Map
 
 ![](https://raw.githubusercontent.com/phodal-archive/visitor-in-map/master/docs/post-data-websocket-map.jpg)
 
-##[Congee Wechat Editor](https://github.com/phodal/congee)
+## [Congee Wechat Editor](https://github.com/phodal/congee)
 
 > [Congee](https://raw.githubusercontent.com/phodal/congee/gh-pages/docs/screenshot.jpg)
 
@@ -121,7 +121,7 @@ Online Demo: https://phodal.github.io/mole-web/
 - jQuery Mixitup
 - Spectrum (ColorPicker)
 
-##[Mock Screenlock](https://github.com/phodal/mock-screen)
+## [Mock Screenlock](https://github.com/phodal/mock-screen)
 
 > A Script to Mock Screen for Mac OS
 
@@ -133,7 +133,7 @@ Online Demo: https://phodal.github.io/mole-web/
 - Assemble
 - Electron
 
-##[Resume](https://github.com/phodal/resume)
+## [Resume](https://github.com/phodal/resume)
 
 > RESUME Generator
 
@@ -149,7 +149,7 @@ Demo: [http://resume.phodal.com](http://resume.phodal.com)
 
 ![RESUME](https://raw.githubusercontent.com/phodal/resume/gh-pages/markdown.jpg)
 
-##[Moqi Mobi](https://github.com/phodal/moqi.mobi)
+## [Moqi Mobi](https://github.com/phodal/moqi.mobi)
 
 > 开源移动CMS框架
 
@@ -161,7 +161,7 @@ Demo: [http://cms.moqi.mobi](http://cms.moqi.mobi)
 - Mustache
 - Pure CSS
 
-##[Sherlock](https://github.com/phodal/sherlock)
+## [Sherlock](https://github.com/phodal/sherlock)
 
 > Web Developer Skill Tree
 
@@ -177,7 +177,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Sherlock](https://raw.githubusercontent.com/phodal/sherlock/gh-pages/sherlock.jpg)
 
-##[Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
+## [Ionic Elasticsearch](https://github.com/phodal/ionic-elasticsearch) & [Django ElasticSearch](https://github.com/phodal/django-elasticsearch)
 
 > Django ElasticSearch Ionic 打造 GIS 移动应用
 
@@ -189,7 +189,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Struct](https://raw.githubusercontent.com/phodal/ionic-elasticsearch/master/screenshots/2.jpg)
 
-##[Tile.js](https://github.com/phodal/tile.js)
+## [Tile.js](https://github.com/phodal/tile.js)
 
 ![Tile.js](https://raw.githubusercontent.com/phodal/tile.js/master/screenshot.jpg)
 
@@ -197,7 +197,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 - JavaScript
 
-##[Text2Logo](https://github.com/phodal/text2logo)
+## [Text2Logo](https://github.com/phodal/text2logo)
 
 ![Text2Logo example](https://raw.githubusercontent.com/phodal/text2logo/master/build/node.png)
 
@@ -205,7 +205,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 - Python
 
-##[Google Map Solr](https://github.com/phodal/gmap-solr)
+## [Google Map Solr](https://github.com/phodal/gmap-solr)
 
 ![Google Map Solr Demo](https://raw.githubusercontent.com/phodal/gmap-solr/master/screenshot/screenshot.png)
 
@@ -214,7 +214,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Google Map
 - Solr
 
-##[On Map](https://github.com/phodal/onmap)
+## [On Map](https://github.com/phodal/onmap)
 
 ![Nokia Image on Map](http://www.phodal.com/static/media/uploads/screen_shot_2014-03-22_at_10.05.39_am.jpg)
 
@@ -223,14 +223,14 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Python
 - CartoDB
 
-##[Lan IoT](https://github.com/phodal/lan)
+## [Lan IoT](https://github.com/phodal/lan)
 
 ![Iot Struct](https://raw.githubusercontent.com/phodal/lan/master/docs/iot.jpg)
 
 > Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol.
 
 
-##[Iot Dashboard](https://github.com/phodal/iot-dashboard)
+## [Iot Dashboard](https://github.com/phodal/iot-dashboard)
 
 ![Iot Dashboard](https://raw.githubusercontent.com/phodal/iot-dashboard/master/doc/screenshot.png)
 
@@ -239,7 +239,7 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 - Ruby
 - Dashing
  
-##[Design Internet of Things](https://github.com/phodal/designiot-app)
+## [Design Internet of Things](https://github.com/phodal/designiot-app)
 
 > Internet of Things APP
 
@@ -250,11 +250,11 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
        src="https://developer.android.com/images/brand/zh-cn_generic_rgb_wo_60.png" />
 </a>
 
-##[Github Roam](https://github.com/phodal/github-roam)
+## [Github Roam](https://github.com/phodal/github-roam)
 
 > GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 
-##[Big Data](https://github.com/phodal/learning-data)
+## [Big Data](https://github.com/phodal/learning-data)
 
 > Big data with ElasticSearch,Hadoop,Pig,Map,D3
 
@@ -268,18 +268,18 @@ Demo: [https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 ![Learning Data](https://raw.githubusercontent.com/phodal/learning-data/master/nginx/screenshot.jpg)
 
-##[BookShelf](https://github.com/phodal/bookshelf)
+## [BookShelf](https://github.com/phodal/bookshelf)
 
 > A Android Application for count your books.
 
-##[Luffa](https://github.com/phodal/luffa)
+## [Luffa](https://github.com/phodal/luffa)
 
  - HighLight DOM Change
  - Generator Test
 
 ![Luffa](https://github.com/phodal/luffa/blob/master/screenshot.jpg)
 
-##[Tech Stack](https://github.com/phodal/techstack)
+## [Tech Stack](https://github.com/phodal/techstack)
 
 Preview: [http://phodal.github.io/techstack](http://phodal.github.io/techstack)
 
@@ -298,26 +298,26 @@ Features:
  - 尽可能兼容大部分的微信API，兼容所有的微信API几乎是不可能的。
  - 提供一个Virtual DOM转换的混合应用插件。
 
-###[Cordova WordPress](https://github.com/phodal/cordova-wordpress)
+### [Cordova WordPress](https://github.com/phodal/cordova-wordpress)
 
 > Cordova WordPress Mobile Application
 
 - Cordova
 - WordPress
 
-###[Chinaware](https://github.com/phodal/chinaware)
+### [Chinaware](https://github.com/phodal/chinaware)
 
 > a light weight javascript game engine for mobile
 
 - JavaScript
 
-###[Project X](https://github.com/phodal/project-x)
+### [Project X](https://github.com/phodal/project-x)
 
 > WordPress Flask Replace
 
 - Python
 
-###[Falcon Wordpress](https://github.com/phodal/falcon-wordpress)
+### [Falcon Wordpress](https://github.com/phodal/falcon-wordpress)
 
 > Falcon WordPress RESTful API 
 
@@ -325,19 +325,19 @@ Features:
 - Peewee
 - WordPress
 
-###[Lumia.css](https://github.com/phodal/lumia.css)
+### [Lumia.css](https://github.com/phodal/lumia.css)
 
 > Lumia CSS Framework for Romantic
 
 - CSS
 
-###[Git Analytics](https://github.com/phodal/git-analytics)
+### [Git Analytics](https://github.com/phodal/git-analytics)
 
 > Analytics your commit information
 
 - Python
 
-###[Wechat WordPress](https://github.com/phodal/wechat-wordpress)
+### [Wechat WordPress](https://github.com/phodal/wechat-wordpress)
 
 > WordPress
 
@@ -345,25 +345,25 @@ Features:
 - WordPress
 - Ruby
 
-###[Be a Geek](https://github.com/phodal/beageek)
+### [Be a Geek](https://github.com/phodal/beageek)
 
 > How to be a geek.
 
 - Write(Markdown)
 
-###[Bamboo Python](https://github.com/phodal/bamboo_py)
+### [Bamboo Python](https://github.com/phodal/bamboo_py)
 
 > Python+Arduino Show Bamboo Status 
 
 - Python Arduino
 
-###[Lettuce](https://github.com/phodal/lettuce)
+### [Lettuce](https://github.com/phodal/lettuce)
 
 > Mobile Framework for Romantic. 简约的移动开发框架
 
 - JavaScript
 
-###[Echoes CMS](https://github.com/phodal/echoes)
+### [Echoes CMS](https://github.com/phodal/echoes)
 
 > A Django CMS, follow trend.
 
