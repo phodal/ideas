@@ -39,7 +39,7 @@
     *   [](#echoes-cms)[Echoes CMS](https://github.com/phodal/echoes)
     
 
-#Done(:thumbsup:)
+# Done(:thumbsup:)
 
 ## [Growth](https://github.com/phodal/growth)
 
@@ -78,7 +78,7 @@
 
 Online: [http://md.phodal.com/](http://md.phodal.com/)
 
-## [EchoesWorks](https://github.com/phodal/echoesworks)##
+## [EchoesWorks](https://github.com/phodal/echoesworks)
 
 ![EchoesWorks](https://raw.githubusercontent.com/phodal/echoesworks/master/app/logo_small.png)
 
@@ -125,7 +125,7 @@ Online Demo: https://phodal.github.io/mole-web/
 
 > A Script to Mock Screen for Mac OS
 
-##Edit-Publish-Program Seperate CMS
+## Edit-Publish-Program Seperate CMS
 
 ![Architecture](https://raw.githubusercontent.com/phodal/echeveria/master/architecture.png)
 
