@@ -1,8 +1,1 @@
-title: Ideas
-description: Collection of Phodal's  idea.
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-architect
-
-gems:
-  - jekyll-mentions
+remote_theme: phodal/mifa-jekyll
